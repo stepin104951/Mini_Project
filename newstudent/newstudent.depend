@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1601845688 source:c:\users\akash\documents\newstudent\main.cpp
+	<iostream>
+	<string>
+	<list>
+	<iterator>
+	"student.h"
+	"studentdb.h"
+
+1601844822 c:\users\akash\documents\newstudent\student.h
+	<iostream>
+	<string>
+
+1601844700 c:\users\akash\documents\newstudent\studentdb.h
+	<iostream>
+	<string>
+	<list>
+	<iterator>
+	"student.h"
+
+1601845714 source:c:\users\akash\documents\newstudent\studentdb.cpp
+	<iostream>
+	<string>
+	<list>
+	<iterator>
+	"studentdb.h"
+	<bits/stdc++.h>
+	<sstream>
+	"student.h"
+
+1601846205 source:c:\users\pavan\onedrive\documents\cppminip-main\newstudent\main.cpp
+	<iostream>
+	<string>
+	<list>
+	<iterator>
+	"student.h"
+	"studentdb.h"
+
+1601846719 c:\users\pavan\onedrive\documents\cppminip-main\newstudent\student.h
+	<iostream>
+	<string>
+
+1601846205 c:\users\pavan\onedrive\documents\cppminip-main\newstudent\studentdb.h
+	<iostream>
+	<string>
+	<list>
+	<iterator>
+	"student.h"
+
+1601846527 source:c:\users\pavan\onedrive\documents\cppminip-main\newstudent\studentdb.cpp
+	<iostream>
+	<string>
+	<list>
+	<iterator>
+	"studentdb.h"
+	<bits/stdc++.h>
+	<sstream>
+	"student.h"
+
